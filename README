@@ -5,13 +5,18 @@ metamorph
 
 -------    x(4)
 
-7 5 7 0    異 different, unusual, strange
+0 0 0 1    START OF HEADING
 
 -------    hex
+
+7 5 7 0    異 different, unusual, strange
+6 8 C B    棋 chess; any game similar to chess
+7 6 D 8    盘 tray, plate, dish; examine
+6 8 3 C    格 pattern, standard, form; style
+
+-------    unicode
 
 8 B 8 A    變 change, transform, alter; rebel
 5 F 6 2    形 form, shape, appearance
 5 7 1 6    圖 diagram; chart, map, picture
 7 2 4 7    片 sheet; slice, splinter, strip
-
--------    unicode
